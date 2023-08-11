@@ -1,7 +1,7 @@
 
 # Awake 
 
-The Awake Weather App is a simple web application that allows users to retrieve weather information for a specific city. 
+The Awake  is a simple web application that allows users to retrieve weather information for a specific city. 
 It uses HTML, CSS, JavaScript, and the  OpenWeatherMap API and is deployed using Netlify.to provide real-time weather data to users.
 
 
