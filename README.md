@@ -18,15 +18,15 @@ You can try the Awake Weather App by visiting the [live demo] (https://stunning-
 ## Installation and Usage
 
 1. Clone the repository:
-
+   
   https://github.com/sneha-2603/AWAKE
   
 
-##API Key
+## API Key
 To use the OpenWeatherMap API for weather data, you need to obtain an API key from the OpenAI website. (https://openweathermap.org/api )
 Replace 'YOUR_OPENAI_API_KEY' in the script.js file with your actual API key.
 
-##Acknowledgements
+## Acknowledgements
 Weather data is provided by the OpenWeatherMap API. (https://openweathermap.org/api/one-call-3)
 
 
