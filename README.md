@@ -19,7 +19,7 @@ You can try the Awake Weather App by visiting the [live demo] (https://stunning-
 
 1. Clone the repository:
 
-   ```bash
+  https://github.com/sneha-2603/AWAKE
   
 
 ##API Key
