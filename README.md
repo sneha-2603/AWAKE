@@ -12,7 +12,7 @@ It uses HTML, CSS, JavaScript, and the  OpenWeatherMap API and is deployed using
 
 ## Demo
 
-You can try the Awake Weather App by visiting the [live demo] (https://stunning-eclair-f9833c.netlify.app/ )
+You can try the Awake Weather Web application by visiting the [live demo] (https://stunning-eclair-f9833c.netlify.app/ )
 
 
 ## Installation and Usage
